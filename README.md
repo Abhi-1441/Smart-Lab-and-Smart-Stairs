@@ -1,7 +1,5 @@
 # Smart Lab and Smart Stairs IoT Project
 
-![Smart Lab and Smart Stairs](images/project_image.jpg)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
